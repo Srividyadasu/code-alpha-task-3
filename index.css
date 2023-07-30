@@ -1,0 +1,21 @@
+.heading{
+    color:rgb(80, 5, 8);
+    font-family:"Roboto";
+    font-size:50px;
+    font-weight:bold;
+    text-align:center;
+}
+.gender-field-heading{
+    color:rgb(48, 6, 107);
+    font-size: 20px;
+    font-family:"Roboto";
+}
+.error-message{
+    color:red;
+    font-size:15px;
+    font-family:"Roboto";
+}
+.imag-contianer{
+    background-image: url("https://www.theforage.com/blog/wp-content/uploads/2022/09/Depositphotos_95377176_L.jpg");
+    width: 100vw;
+}
